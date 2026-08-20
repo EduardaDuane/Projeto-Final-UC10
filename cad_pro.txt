@@ -1,0 +1,7 @@
+Cadastro de Produtos
+
+Código : 88EFD878
+Descrição : Esse produto é frágil
+Categoria : Tecnologia
+Valor : R$ 500,00
+Estoque : São Paulo 
